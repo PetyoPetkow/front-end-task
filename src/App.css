@@ -37,7 +37,7 @@
   float: right;
   padding: 3rem;
   flex: 0 1 auto;
-  background-color: #1ad449;
+  background-color: #4ab364;
   border-radius: 0rem 1rem 1rem 0rem;
   padding-bottom: 10%;
 }
@@ -150,7 +150,7 @@
 .name{
   color: rgb(81, 94, 167);
   background-color: #b6deee;
-  border:2px solid #1ad449;
+  border:2px solid #4ab364;
   width: 9em;
   max-height: fit-content;
   font-family: Arial, Helvetica, sans-serif;
@@ -185,7 +185,7 @@ iframe {
 }
 
 .label-name{
-  color: #1ad449;
+  color: #4ab364;
   font-size: 2rem;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   align-items: center;
@@ -196,7 +196,7 @@ iframe {
 }
 
 .submit-name{
-  background-color:#1ad449;
+  background-color:#4ab364;
   border:0px;
   border-radius: 1rem;
   width: 100%;
@@ -207,7 +207,7 @@ iframe {
 }
 
 .btn-show, .btn-clear{
-  background-color: #1ad449;
+  background-color: #4ab364;
   border: 1px solid white;
   border-radius: 1rem;
   color: white;
